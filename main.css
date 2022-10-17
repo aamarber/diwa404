@@ -1,0 +1,14 @@
+.container{
+    border: solid 2px #77A6B6;
+    border-radius: .5rem;
+    width: 600px;
+    height: 400px;
+}
+
+.centered{
+    border: solid 1px #002e12;
+    background-color: #42f587;
+    border-radius: .5rem;
+    padding: .5rem;
+    width: 10rem;
+}
